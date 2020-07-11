@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Asap');
+
 * {
   box-sizing: border-box;
 }
@@ -193,3 +195,42 @@ nav {
       }
 
 /* END SCROLLAMA STUFF */
+
+.head {
+  font-size: 7.5rem;
+  line-height: 1;
+  font-family: Asap;
+  text-align: center;
+  padding-top: 1em;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.byline {
+  margin: 3em;
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+p.story {
+  max-width: 40rem;
+  margin: 1em auto;
+  padding: 0 .75rem;
+}
+
+/* GEO 1 */
+path {
+  fill: #e3e3e3;
+  stroke-width: 1px;
+  stroke: #666;
+}
+
+circle {
+  stroke: none;
+  fill: #fc0;
+}
+
+.added {
+  fill: #f0f;
+}
+/* End Geo 1 */
