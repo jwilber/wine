@@ -16,6 +16,7 @@ body {
   min-height: 1280px;
   color: #3b3b3b;
   font-size: 24px;
+  background-color: oldlace;
 }
 
 p,
@@ -138,7 +139,8 @@ a:hover {
         padding: 1rem;
         font-size: 1.2rem;
         background-color: rgba(255, 255, 255, .95);
-        border: 2px solid black;
+        background-color: #fdf5e6;
+        border: 2px solid #f9e2b7;
       }
 
 /* END SCROLLAMA STUFF */
@@ -167,7 +169,7 @@ p.story {
 }
 
 /* GEO 1 */
-path {
+/* path {
   fill: #e3e3e3;
   stroke-width: 1px;
   stroke: #666;
@@ -176,7 +178,7 @@ path {
 circle {
   stroke: none;
   fill: #fc0;
-}
+} */
 
 .added {
   fill: #f0f;
@@ -198,3 +200,19 @@ left: 0;
 right: 0;
 }
 
+.red { 
+  color: white; 
+  -webkit-text-stroke-width: 4px;
+  -webkit-text-stroke-color: blue;
+}
+.blue { 
+  color: white;
+  -webkit-text-stroke-width: 4px;
+  -webkit-text-stroke-color: red;
+ }
+
+ .black { 
+  color: white;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+ }
