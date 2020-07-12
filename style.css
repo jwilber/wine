@@ -28,64 +28,14 @@ a {
   font-weight: 400;
 }
 
-a,
-a:visited,
-a:hover {
+a{
   color: teal;
   text-decoration: none;
   border-bottom: 2px solid currentColor;
 }
 
-nav {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: baseline;
-  -ms-flex-align: baseline;
-  align-items: baseline;
-  -webkit-box-pack: justify;
-  -ms-flex-pack: justify;
-  justify-content: space-between;
-  /* background: #f3f3f3; */
-  padding: 1rem;
-  padding-right: 5rem;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
-}
-
-.nav__examples {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: baseline;
-  -ms-flex-align: baseline;
-  align-items: baseline;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
-  margin-top: 1rem;
-}
-
-.nav__examples > * {
-  margin-right: 0.5rem;
-}
-
-#intro {
-  max-width: 40rem;
-  margin: 1rem auto;
-  text-align: center;
-}
-
-.intro__hed {
-  font-size: 2em;
-  margin: 2rem auto 0.5rem auto;
-}
-
-.intro__dek {
-  color: #8a8a8a;
-}
-
-.github-corner:hover .octo-arm {
-  animation: octocat-wave 560ms ease-in-out;
+a:hover {
+  color: black;
 }
 
 @keyframes octocat-wave {
@@ -147,14 +97,15 @@ nav {
       figure {
         position: -webkit-sticky;
         position: sticky;
-        left: 0;
+        /*left: 0;*/
         width: 100%;
         margin: 0;
         -webkit-transform: translate3d(0, 0, 0);
         -moz-transform: translate3d(0, 0, 0);
         transform: translate3d(0, 0, 0);
-        /* background-color: #8a8a8a; */
+         background-color: #8a8a8a; 
         z-index: 0;
+        justify-content: center;
       }
 
       figure p {
@@ -232,16 +183,17 @@ circle {
   fill: #f0f;
 }
 /* End Geo 1 */
-.viz1 {
-  justify-content: center;
-  padding-left: 200px;
-}
 
 .title-dek {
-  padding-top: 100px;
+  /*padding-top: 100px;*/
+  margin: 10rem;
 }
 
 
-body {
-
+#chart1 {
+  position: fixed;
+margin: 5% auto; /* Will not center vertically and won't work in IE6/7. */
+left: 0;
+right: 0;
 }
+
