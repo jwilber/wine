@@ -64,7 +64,6 @@ function handleStepEnter(response) {
     stateTweener.makeState('ma', 'ca');
   } else if (response.index == 3 & response.direction == 'up') {
     console.log('3 up')
-    moveNodes()
   } else if (response.index == 3 & response.direction == 'down') {
     console.log('3 down')
   } else if (response.index == 4 & response.direction == 'up') {
