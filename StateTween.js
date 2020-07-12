@@ -4,14 +4,13 @@ class StateTween {
         this.svg = d3.select(opts.element);
         this.data = opts.data;
 
-
+        // add texture
         const texture = textures.lines()
             .orientation("3/8")
             .size(12)
             .strokeWidth(2)
             .shapeRendering("crispEdges")
             .stroke("darkorange");
-
 
         this.svg.call(texture);
 
@@ -20,6 +19,7 @@ class StateTween {
             .style('stroke-width', 3)
             .style('fill', texture.url());
 
+        // make chart
         d3.json(this.data, function (err, topo) {
             that.states = topojson.feature(topo, topo.objects.states)
                 .features.map(d => d.geometry.coordinates[0]);
@@ -50,9 +50,10 @@ class StateTween {
         }
 
         that.path.transition()
-            .duration(1200)
+            .duration(1300)
             .attr("d", d => join(newState))
     }
+
 
     static addPoints(ring, numPoints) {
 
