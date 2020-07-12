@@ -46,7 +46,7 @@ nav {
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  background: #f3f3f3;
+  /* background: #f3f3f3; */
   padding: 1rem;
   padding-right: 5rem;
   -ms-flex-wrap: wrap;
@@ -134,14 +134,13 @@ nav {
 
 #scrolly {
         position: relative;
-        background-color: #f3f3f3;
         padding: 1rem;
       }
 
       article {
         position: relative;
         padding: 0;
-        max-width: 20rem;
+        max-width: 40rem;
         margin: 0 auto;
       }
 
@@ -154,7 +153,7 @@ nav {
         -webkit-transform: translate3d(0, 0, 0);
         -moz-transform: translate3d(0, 0, 0);
         transform: translate3d(0, 0, 0);
-        background-color: #8a8a8a;
+        /* background-color: #8a8a8a; */
         z-index: 0;
       }
 
@@ -173,9 +172,7 @@ nav {
       }
 
       .step {
-        margin: 0 auto 2rem auto;
-        color: #fff;
-        background-color: rgba(0, 0, 0, 0.1);
+        margin: 0 auto 1rem auto;
       }
 
       .step:last-child {
@@ -183,21 +180,21 @@ nav {
       }
 
       .step.is-active p {
-        background-color: goldenrod;
         color: #3b3b3b;
       }
 
       .step p {
         text-align: center;
         padding: 1rem;
-        font-size: 1.5rem;
-        background-color: #3b3b3b;
+        font-size: 1.2rem;
+        background-color: white;
+        border: 2px solid black;
       }
 
 /* END SCROLLAMA STUFF */
 
 .head {
-  font-size: 7.5rem;
+  font-size: 6.5rem;
   line-height: 1;
   font-family: Asap;
   text-align: center;
@@ -210,6 +207,7 @@ nav {
   margin: 3em;
   font-size: 1rem;
   font-weight: 400;
+  text-align: center;
 }
 
 p.story {
@@ -234,3 +232,16 @@ circle {
   fill: #f0f;
 }
 /* End Geo 1 */
+.viz1 {
+  justify-content: center;
+  padding-left: 200px;
+}
+
+.title-dek {
+  padding-top: 100px;
+}
+
+
+body {
+
+}

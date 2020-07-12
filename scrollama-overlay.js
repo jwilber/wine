@@ -5,16 +5,23 @@ var figure = scrolly.select("figure");
 var article = scrolly.select("article");
 var step = article.selectAll(".step");
 
+
+// initialize chart 1
+const stateTweener = new StateTween({
+  data: "us2.topo.json"
+})
+
+
 // initialize the scrollama
 var scroller = scrollama();
 
 // generic window resize listener event
 function handleResize() {
   // 1. update height of step elements
-  var stepH = Math.floor(window.innerHeight * 0.75);
+  var stepH = Math.floor(window.innerHeight * 0.95);
   step.style("height", stepH + "px");
 
-  var figureHeight = window.innerHeight / 2;
+  var figureHeight = window.innerHeight / 1.2;
   var figureMarginTop = (window.innerHeight - figureHeight) / 2;
 
   figure
@@ -36,21 +43,25 @@ function handleStepEnter(response) {
   });
 
   // update graphic based on step
-  figure.select("p").text(response.index + 1);
+  // figure.select("p").text(response.index + 1);
 
   // chart functions
   if (response.index == 0 & response.direction == 'down') {
     console.log('0 down')
   } else if (response.index == 0 & response.direction == 'up') {
     console.log('0 up')
+    stateTweener.makeState('ca', 'wa');
   } else if (response.index == 1 & response.direction == 'down') {
     console.log('1 down')
+    stateTweener.makeState('wa', 'ca');
   } else if (response.index == 1 & response.direction == 'up') {
     console.log('1 up')
+    stateTweener.makeState('wa', 'ma');
   } else if (response.index == 2 & response.direction == 'up') {
     console.log('2 up')
   } else if (response.index == 2 & response.direction == 'down') {
     console.log('2 down')
+    stateTweener.makeState('ma', 'ca');
   } else if (response.index == 3 & response.direction == 'up') {
     console.log('3 up')
     moveNodes()
@@ -83,8 +94,8 @@ function init() {
   scroller
     .setup({
       step: "#scrolly article .step",
-      offset: 0.53,
-      // debug: true
+      offset: 0.1,
+      debug: true
     })
     .onStepEnter(handleStepEnter);
 
