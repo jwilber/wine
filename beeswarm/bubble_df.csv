@@ -1,0 +1,433 @@
+,index,location,points,price,country,polarity
+0,0,"Marchesi Antinori winery ,Toscana, Tuscany, Italy",87,14.0,Italy,-0.2
+1,1,"Cavallotto winery ,Barolo, Piedmont, Italy",97,150.0,Italy,3.96508223080413e-18
+2,2,"Louis Latour winery ,Montrachet, Burgundy, France",96,630.0,France,0.26642857142857146
+3,3,"Louis Latour winery ,Criots-Bâtard-Montrachet, Burgundy, France",95,380.0,France,0.2833333333333333
+4,4,"Marchesi Antinori winery ,Bolgheri Superiore, Tuscany, Italy",98,102.0,Italy,0.25
+5,5,"Tenuta San Guido winery ,Bolgheri Sassicaia, Tuscany, Italy",97,220.0,Italy,0.10740740740740741
+6,6,"Tenuta dell'Ornellaia winery ,Bolgheri Superiore, Tuscany, Italy",97,215.0,Italy,0.21388888888888888
+7,7,"Château Trotanoy winery ,Pomerol, Bordeaux, France",96,400.0,France,0.1875
+8,8,"Cavallotto winery ,Barolo, Piedmont, Italy",92,,Italy,-0.0125
+9,9,"Joseph Drouhin winery ,Charmes-Chambertin, Burgundy, France",95,164.0,France,-0.13333333333333333
+10,10,"Chanson Père et Fils winery ,Charmes-Chambertin, Burgundy, France",94,190.0,France,0.09999999999999999
+11,11,"Château Pontet-Canet winery ,Pauillac, Bordeaux, France",97,,France,0.4130952380952381
+12,12,"Wayfarer winery ,Fort Ross-Seaview, California, US",98,155.0,US,0.22023809523809526
+13,13,"Wayfarer winery ,Fort Ross-Seaview, California, US",97,115.0,US,0.13113553113553114
+14,14,"Wayfarer winery ,Fort Ross-Seaview, California, US",96,115.0,US,0.39866071428571426
+15,15,"Wayfarer winery ,Fort Ross-Seaview, California, US",96,115.0,US,0.09772727272727273
+16,16,"Château Pierre-Bise winery ,Quarts de Chaume, Loire Valley, France",95,60.0,France,0.34500000000000003
+17,17,"Wayfarer winery ,Fort Ross-Seaview, California, US",95,90.0,US,0.1571428571428571
+18,18,"COS winery ,Vittoria, Sicily & Sardinia, Italy",95,30.0,Italy,-0.008333333333333331
+19,19,"Château Pontet-Canet winery ,Pauillac, Bordeaux, France",90,70.0,France,0.21927272727272723
+20,20,"Domaine Leflaive winery ,Bâtard-Montrachet, Burgundy, France",97,430.0,France,0.22357142857142853
+21,21,"Domaine Leflaive winery ,Chevalier-Montrachet, Burgundy, France",97,550.0,France,0.29357142857142854
+22,22,"Copain Wines winery ,Anderson Valley, California, US",95,50.0,US,0.15666666666666665
+23,23,"Copain Wines winery ,Anderson Valley, California, US",95,50.0,US,0.2234848484848485
+24,24,"Château Trotanoy winery ,Pomerol, Bordeaux, France",96,475.0,France,0.13749999999999998
+25,25,"Le Dôme winery ,Saint-Émilion, Bordeaux, France",95,235.0,France,0.05238095238095238
+26,26,"Gaja winery ,Langhe, Piedmont, Italy",93,500.0,Italy,0.12222222222222223
+27,27,"Joseph Drouhin winery ,Grands-Echezeaux, Burgundy, France",94,285.0,France,0.19166666666666665
+28,28,"Kendall-Jackson winery ,Knights Valley, California, US",92,75.0,US,0.03939393939393939
+29,29,"Avignonesi winery ,Vin Santo di Montepulciano, Tuscany, Italy",100,210.0,Italy,-0.01111111111111112
+30,30,"Mascarello Giuseppe e Figlio winery ,Barolo, Piedmont, Italy",92,99.0,Italy,0.11282051282051284
+31,31,"Portfolio winery ,Napa Valley, California, US",95,145.0,US,0.33571428571428574
+32,32,"Château Léoville Barton winery ,Saint-Julien, Bordeaux, France",95,75.0,France,-0.010714285714285723
+33,33,"Herman Story winery ,California, California, US",95,47.0,US,0.3833333333333333
+34,34,"Julien Schaal winery ,Alsace, Alsace, France",96,45.0,France,0.29285714285714287
+35,35,"Julien Schaal winery ,Alsace, Alsace, France",95,25.0,France,0.24122023809523807
+36,36,"Paix Sur Terre winery ,North Coast, California, US",95,52.0,US,0.021666666666666674
+37,37,"Julien Schaal winery ,Alsace, Alsace, France",95,35.0,France,0.30208333333333337
+38,38,"Tenuta dell'Ornellaia winery ,Toscana, Tuscany, Italy",95,460.0,Italy,0.29120370370370374
+39,39,"Dolce winery ,Napa Valley, California, US",93,75.0,US,0.45095238095238094
+40,40,"Chanson Père et Fils winery ,Chambertin Clos de Bèze, Burgundy, France",95,300.0,France,0.21666666666666665
+41,41,"Domaine Faiveley winery ,Corton-Rognet, Burgundy, France",95,225.0,France,0.234375
+42,42,"Alex Gambal winery ,Clos de Vougeot, Burgundy, France",95,180.0,France,0.10497354497354497
+43,43,"Domaine Chanson winery ,Corton Vergennes, Burgundy, France",95,187.0,France,0.29928571428571427
+44,44,"Domaine Rossignol-Trapet winery ,Chapelle-Chambertin, Burgundy, France",95,170.0,France,-0.018750000000000003
+45,45,"Louis Latour winery ,Montrachet, Burgundy, France",95,520.0,France,0.31428571428571433
+46,46,"Alex Gambal winery ,Latricières-Chambertin, Burgundy, France",95,200.0,France,-0.043333333333333335
+47,47,"Marchesi Antinori winery ,Toscana, Tuscany, Italy",94,105.0,Italy,0.003057359307359297
+48,48,"Château Trotanoy winery ,Pomerol, Bordeaux, France",94,,France,0.5388888888888889
+49,49,"Spottswoode winery ,St. Helena, California, US",95,165.0,US,0.20606060606060608
+50,50,"Il Colle winery ,Brunello di Montalcino, Tuscany, Italy",95,46.0,Italy,0.14583333333333334
+51,51,"Wayfarer winery ,Fort Ross-Seaview, California, US",94,80.0,US,0.19444444444444445
+52,52,"Château Pétrus winery ,Pomerol, Bordeaux, France",96,2500.0,France,0.34074074074074073
+53,53,"Ken Wright winery ,Ribbon Ridge, Oregon, US",96,63.0,US,0.41041666666666665
+54,54,"Château Pontet-Canet winery ,Pauillac, Bordeaux, France",96,110.0,France,0.10136054421768707
+55,55,"Le Dôme winery ,Saint-Émilion, Bordeaux, France",96,175.0,France,0.04166666666666666
+56,56,"Château Pontet-Canet winery ,Pauillac, Bordeaux, France",97,,France,0.4840909090909091
+57,57,"Château Léoville Barton winery ,Saint-Julien, Bordeaux, France",95,,France,0.15777777777777777
+58,58,"Hors Categorie winery ,Walla Walla Valley (OR), Oregon, US",96,240.0,US,0.2885281385281385
+59,59,"Sbragia winery ,Sonoma Valley, California, US",92,50.0,US,0.16691919191919194
+60,60,"Domaine des Croix winery ,Corton, Burgundy, France",94,129.0,France,0.3892857142857143
+61,61,"Salon winery ,Champagne, Champagne, France",93,200.0,France,-0.049851190476190486
+62,62,"Verité winery ,Sonoma County, California, US",85,100.0,US,-0.20944444444444446
+63,63,"Salon winery ,Champagne, Champagne, France",97,350.0,France,0.375
+64,64,"Château Pontet-Canet winery ,Pauillac, Bordeaux, France",92,,France,0.20833333333333334
+65,65,"Marchesi Antinori winery ,Toscana, Tuscany, Italy",97,325.0,Italy,0.19749999999999998
+66,66,"Château Pontet-Canet winery ,Pauillac, Bordeaux, France",96,105.0,France,0.3408333333333334
+67,67,"Marchesi Antinori winery ,Toscana, Tuscany, Italy",95,105.0,Italy,0.27499999999999997
+68,68,"Domaine Dujac winery ,Clos de la Roche, Burgundy, France",96,304.0,France,0.19249999999999998
+69,69,"Domaine Jacques Prieur winery ,Musigny, Burgundy, France",96,510.0,France,0.22604166666666667
+70,70,"Domaine Jacques Prieur winery ,Echézeaux, Burgundy, France",95,370.0,France,0.13537414965986397
+71,71,"Louis Latour winery ,Montrachet, Burgundy, France",95,440.0,France,0.28666666666666674
+72,72,"Domaine Jacques Prieur winery ,Chambertin, Burgundy, France",95,360.0,France,0.22777777777777775
+73,73,"Domaine Dujac winery ,Clos Saint-Denis, Burgundy, France",95,304.0,France,0.10694444444444447
+74,74,"Wayfarer winery ,Fort Ross-Seaview, California, US",93,125.0,US,0.03888888888888889
+75,75,"Domaine Rossignol-Trapet winery ,Chambertin, Burgundy, France",96,240.0,France,0.37083333333333335
+76,76,"Bouchard Père & Fils winery ,Chevalier-Montrachet, Burgundy, France",96,315.0,France,0.34375
+77,77,"Casanova di Neri winery ,Brunello di Montalcino, Tuscany, Italy",95,50.0,Italy,0.16145833333333334
+78,78,"Marchesi Antinori winery ,Toscana, Tuscany, Italy",94,99.0,Italy,0.13647619047619047
+79,79,"Yao Ming winery ,Napa Valley, California, US",94,625.0,US,0.360625
+80,80,"Tenuta San Guido winery ,Bolgheri Sassicaia, Tuscany, Italy",98,235.0,Italy,0.258974358974359
+81,81,"Cerbaiona winery ,Brunello di Montalcino, Tuscany, Italy",95,,Italy,0.4406060606060606
+82,82,"Marchesi Antinori winery ,Toscana, Tuscany, Italy",94,325.0,Italy,0.20833333333333334
+83,83,"Louis Jadot winery ,Bâtard-Montrachet, Burgundy, France",98,367.0,France,0.23839285714285713
+84,84,"Louis Jadot winery ,Corton-Charlemagne, Burgundy, France",97,184.0,France,0.2
+85,85,"Louis Jadot winery ,Clos de la Roche, Burgundy, France",97,286.0,France,0.10595238095238095
+86,86,"Louis Jadot winery ,Corton-Pougets, Burgundy, France",96,116.0,France,0.18214285714285713
+87,87,"Louis Jadot winery ,Echézeaux, Burgundy, France",96,231.0,France,0.1527777777777778
+88,88,"Il Colle winery ,Brunello di Montalcino, Tuscany, Italy",96,45.0,Italy,0.15363636363636363
+89,89,"Louis Jadot winery ,Chambertin Clos de Bèze, Burgundy, France",96,474.0,France,0.225
+90,90,"Louis Jadot winery ,Chapelle-Chambertin, Burgundy, France",95,286.0,France,0.058333333333333334
+91,91,"Tenuta San Guido winery ,Bolgheri Sassicaia, Tuscany, Italy",94,227.0,Italy,0.5
+92,92,"Le Dôme winery ,Saint-Émilion, Bordeaux, France",94,155.0,France,0.02619047619047619
+93,93,"Château Trotanoy winery ,Pomerol, Bordeaux, France",94,250.0,France,-0.16333333333333333
+94,94,"Olivier Leflaive winery ,Montrachet, Burgundy, France",97,886.0,France,0.18611111111111112
+95,95,"Horsepower winery ,Walla Walla Valley (WA), Washington, US",96,120.0,US,0.013888888888888893
+96,96,"Roche de Bellene winery ,Charmes-Chambertin, Burgundy, France",96,330.0,France,0.06203703703703705
+97,97,"Roche de Bellene winery ,Corton, Burgundy, France",95,142.0,France,0.39
+98,98,"Horsepower winery ,Walla Walla Valley (WA), Washington, US",95,120.0,US,-0.12291666666666669
+99,99,"Olivier Leflaive winery ,Bâtard-Montrachet, Burgundy, France",95,569.0,France,0.5166666666666666
+100,100,"Roche de Bellene winery ,Echézeaux, Burgundy, France",95,330.0,France,-0.03437499999999999
+101,101,"Roche de Bellene winery ,Clos Saint-Denis, Burgundy, France",95,330.0,France,0.06481481481481481
+102,102,"Olivier Leflaive winery ,Chevalier-Montrachet, Burgundy, France",95,710.0,France,0.029166666666666674
+103,103,"Cavallotto winery ,Barolo, Piedmont, Italy",91,98.0,Italy,0.054761904761904755
+104,104,"Résonance winery ,McMinnville, Oregon, US",95,50.0,US,0.275
+105,105,"Big Basin winery ,Ben Lomond Mountain, California, US",95,48.0,US,0.22537878787878787
+106,106,"Sbragia winery ,Sonoma Valley, California, US",95,50.0,US,0.07163299663299663
+107,107,"Principe Corsini Fattoria Le Corti winery ,Vin Santo del Chianti Classico, Tuscany, Italy",97,,Italy,0.37222222222222223
+108,108,"Louis Jadot winery ,Chambolle-Musigny, Burgundy, France",95,95.0,France,0.30277777777777776
+109,109,"Chanson Père et Fils winery ,Chambertin Clos de Bèze, Burgundy, France",95,,France,0.27690476190476193
+110,110,"Cantina Bartolo Mascarello winery ,Barolo, Piedmont, Italy",95,,Italy,0.3375
+111,111,"Sbragia winery ,Sonoma Valley, California, US",95,50.0,US,0.07163299663299663
+112,112,"Tenuta San Guido winery ,Bolgheri Sassicaia, Tuscany, Italy",99,235.0,Italy,0.31428571428571433
+113,113,"Marchesi Antinori winery ,Toscana, Tuscany, Italy",97,325.0,Italy,0.21000000000000002
+114,114,"Patrick Javillier winery ,Corton-Charlemagne, Burgundy, France",95,,France,0.3966666666666666
+115,115,"Girard winery ,Diamond Mountain District, California, US",95,75.0,US,0.17
+116,116,"Salon winery ,Champagne, Champagne, France",98,520.0,France,0.27380952380952384
+117,117,"Casanova di Neri winery ,Brunello di Montalcino, Tuscany, Italy",93,70.0,Italy,0.0746212121212121
+118,118,"Yao Ming winery ,Napa Valley, California, US",98,625.0,US,0.06353305785123968
+119,119,"Yao Ming winery ,Napa Valley, California, US",95,150.0,US,-0.019999999999999993
+120,120,"Hall winery ,Rutherford, California, US",95,200.0,US,0.2516233766233766
+121,121,"Holus Bolus winery ,Sta. Rita Hills, California, US",95,32.0,US,0.2916666666666667
+122,122,"Tenuta dell'Ornellaia winery ,Toscana, Tuscany, Italy",100,460.0,Italy,0.37172619047619054
+123,123,"Tenuta dell'Ornellaia winery ,Toscana, Tuscany, Italy",97,460.0,Italy,0.25
+124,124,"Tenuta dell'Ornellaia winery ,Toscana, Tuscany, Italy",95,460.0,Italy,0.29120370370370374
+125,125,"Château Climens winery ,Barsac, Bordeaux, France",91,40.0,France,0.3125
+126,126,"Dolce winery ,Napa Valley, California, US",98,85.0,US,0.3288690476190476
+127,127,"Araujo winery ,Napa Valley, California, US",98,275.0,US,0.3954545454545455
+128,128,"Donelan winery ,Sonoma Valley, California, US",97,90.0,US,0.22307692307692312
+129,129,"Macauley winery ,Alexander Valley, California, US",96,45.0,US,0.4305555555555556
+130,130,"Hall winery ,Rutherford, California, US",96,165.0,US,0.2968253968253969
+131,131,"Staglin winery ,Napa Valley, California, US",96,250.0,US,0.30444444444444446
+132,132,"Portfolio winery ,Napa Valley, California, US",87,125.0,US,0.13181818181818183
+133,133,"Hoopes winery ,Oakville, California, US",95,75.0,US,0.24791666666666665
+134,134,"Venge winery ,Calistoga, California, US",95,105.0,US,-0.020833333333333325
+135,135,"Marchesi Antinori winery ,Toscana, Tuscany, Italy",95,105.0,Italy,0.035119047619047626
+136,136,"Marchesi Antinori winery ,Toscana, Tuscany, Italy",94,325.0,Italy,-0.18238095238095237
+137,137,"Mascarello Giuseppe e Figlio winery ,Barolo, Piedmont, Italy",99,595.0,Italy,0.14930555555555555
+138,138,"Louis Jadot winery ,Chevalier-Montrachet, Burgundy, France",97,476.0,France,0.30370370370370364
+139,139,"Louis Jadot winery ,Bâtard-Montrachet, Burgundy, France",96,370.0,France,0.4571428571428572
+140,140,"Mascarello Giuseppe e Figlio winery ,Barolo, Piedmont, Italy",99,175.0,Italy,0.325
+141,141,"Domaine Vacheron winery ,Vin de France, France Other, France",96,,France,-0.015833333333333338
+142,142,"Cardinale winery ,Napa Valley, California, US",100,200.0,US,0.3590277777777778
+143,143,"Tenuta dell'Ornellaia winery ,Bolgheri Superiore, Tuscany, Italy",97,200.0,Italy,0.312962962962963
+144,144,"Paul Lato winery ,Sta. Rita Hills, California, US",95,70.0,US,0.33229166666666665
+145,145,"Château Climens winery ,Barsac, Bordeaux, France",98,70.0,France,0.375
+146,146,"Portfolio winery ,Napa Valley, California, US",96,155.0,US,0.0972222222222222
+147,147,"Dolce winery ,Napa Valley, California, US",96,85.0,US,0.275
+148,148,"Wayfarer winery ,Fort Ross-Seaview, California, US",97,150.0,US,0.1891666666666667
+149,149,"Milziade Antano winery ,Montefalco Sagrantino, Central Italy, Italy",96,80.0,Italy,0.13452380952380952
+150,150,"Wayfarer winery ,Fort Ross-Seaview, California, US",96,115.0,US,0.06874999999999999
+151,151,"Wayfarer winery ,Fort Ross-Seaview, California, US",95,115.0,US,0.020833333333333336
+152,152,"Milziade Antano winery ,Montefalco Sagrantino, Central Italy, Italy",95,50.0,Italy,0.009523809523809514
+153,153,"Bruno Giacosa winery ,Barbaresco, Piedmont, Italy",95,200.0,Italy,0.296969696969697
+154,154,"Mascarello Giuseppe e Figlio winery ,Barolo, Piedmont, Italy",94,125.0,Italy,0.04682539682539682
+155,155,"Domaine des Lambrays winery ,Clos de Lambrays, Burgundy, France",98,,France,0.34693877551020413
+156,156,"Louis Jadot winery ,Charmes-Chambertin, Burgundy, France",98,134.0,France,-0.05952380952380952
+157,157,"Clos de Tart winery ,Clos de Tart, Burgundy, France",98,319.0,France,0.29999999999999993
+158,158,"Louis Jadot winery ,Clos de la Roche, Burgundy, France",98,138.0,France,0.0
+159,159,"Louis Jadot winery ,Corton-Pougets, Burgundy, France",97,95.0,France,0.35
+160,160,"Domaine de l'Arlot winery ,Romanée-St.-Vivant, Burgundy, France",95,,France,0.24333333333333335
+161,161,"Louis Jadot winery ,Chambolle-Musigny, Burgundy, France",95,90.0,France,0.55
+162,162,"Gaja winery ,Langhe, Piedmont, Italy",92,500.0,Italy,0.013690476190476197
+163,163,"Kendall-Jackson winery ,Knights Valley, California, US",97,125.0,US,0.31190476190476196
+164,164,"Hartford Court winery ,Green Valley, California, US",95,60.0,US,0.06785714285714285
+165,165,"Cavallotto winery ,Barolo, Piedmont, Italy",91,98.0,Italy,0.054761904761904755
+166,166,"Harlan Estate winery ,Napa Valley, California, US",97,150.0,US,0.1426666666666667
+167,167,"Domaine Leflaive winery ,Chevalier-Montrachet, Burgundy, France",97,574.0,France,-0.08809523809523812
+168,168,"Domaine Leflaive winery ,Bâtard-Montrachet, Burgundy, France",97,451.0,France,0.2738095238095238
+169,169,"Harlan Estate winery ,Napa Valley, California, US",95,450.0,US,0.22750000000000004
+170,170,"Olivier Leflaive winery ,Bâtard-Montrachet, Burgundy, France",95,310.0,France,0.3238095238095238
+173,173,"Faiveley winery ,Corton, Burgundy, France",95,195.0,France,0.17047619047619048
+174,174,"Alex Gambal winery ,Charmes-Chambertin, Burgundy, France",95,200.0,France,-0.10499999999999998
+175,175,"Wayfarer winery ,Fort Ross-Seaview, California, US",95,80.0,US,0.25555555555555554
+176,176,"Domaine Méo-Camuzet winery ,Clos de Vougeot, Burgundy, France",95,307.0,France,0.028125
+177,177,"Wayfarer winery ,Fort Ross-Seaview, California, US",94,115.0,US,0.2125
+178,178,"Wayfarer winery ,Fort Ross-Seaview, California, US",94,90.0,US,0.30833333333333335
+179,179,"Wayfarer winery ,Fort Ross-Seaview, California, US",98,80.0,US,0.02812499999999999
+180,180,"Domaine des Lambrays winery ,Clos de Lambrays, Burgundy, France",96,215.0,France,0.2547619047619048
+182,182,"Domaine Faiveley winery ,Bienvenues Bâtard-Montrachet, Burgundy, France",96,476.0,France,0.2375
+183,183,"Albert Bichot winery ,Grands-Echezeaux, Burgundy, France",95,385.0,France,-0.011904761904761902
+184,184,"Château Léoville Barton winery ,Saint-Julien, Bordeaux, France",100,150.0,France,0.2316666666666667
+185,185,"Paul Hobbs winery ,Oakville, California, US",96,275.0,US,0.1774242424242424
+186,186,"Château Climens winery ,Barsac, Bordeaux, France",96,126.0,France,0.3433333333333333
+187,187,"Schramsberg winery ,Napa-Monterey-Mendocino, California, US",96,200.0,US,0.595
+188,188,"Casanova di Neri winery ,Brunello di Montalcino, Tuscany, Italy",93,80.0,Italy,0.033673469387755096
+189,189,"Arcadian winery ,Santa Maria Valley, California, US",95,50.0,US,0.19999999999999998
+190,190,"L'Aietta winery ,Brunello di Montalcino, Tuscany, Italy",95,75.0,Italy,0.26011904761904764
+191,191,"Moulin Touchais winery ,Coteaux du Layon, Loire Valley, France",95,64.0,France,0.07
+192,192,"Moulin Touchais winery ,Coteaux du Layon, Loire Valley, France",95,55.0,France,0.2816666666666667
+193,193,"Gaja winery ,Langhe, Piedmont, Italy",99,440.0,Italy,0.1724025974025974
+194,194,"Gaja winery ,Langhe, Piedmont, Italy",99,440.0,Italy,0.5
+195,195,"Gaja winery ,Langhe, Piedmont, Italy",98,255.0,Italy,0.275
+196,196,"Louis Latour winery ,Chevalier-Montrachet, Burgundy, France",93,380.0,France,0.2672727272727273
+197,197,"Domaine Faiveley winery ,Echézeaux, Burgundy, France",93,226.0,France,0.26809523809523805
+198,198,"Louis Jadot winery ,Clos de Vougeot, Burgundy, France",95,196.0,France,0.31805555555555554
+199,199,"Alex Gambal winery ,Charmes-Chambertin, Burgundy, France",95,,France,0.12685185185185188
+200,200,"David Duband winery ,Latricières-Chambertin, Burgundy, France",95,270.0,France,0.337037037037037
+201,201,"Château Pétrus winery ,Pomerol, Bordeaux, France",97,,France,0.5625
+202,202,"Château Trotanoy winery ,Pomerol, Bordeaux, France",95,,France,0.265
+203,203,"Roche de Bellene winery ,Charmes-Chambertin, Burgundy, France",94,262.0,France,0.10462962962962963
+204,204,"Château Pétrus winery ,Pomerol, Bordeaux, France",97,2000.0,France,0.19285714285714287
+205,205,"Laird winery ,Yountville, California, US",96,105.0,US,0.225
+206,206,"Roche de Bellene winery ,Bonnes-Mares, Burgundy, France",96,480.0,France,0.16166666666666668
+207,207,"Roche de Bellene winery ,Chambertin, Burgundy, France",96,496.0,France,0.18425925925925926
+208,208,"Roche de Bellene winery ,Clos de la Roche, Burgundy, France",95,295.0,France,0.11845238095238095
+209,209,"Roche de Bellene winery ,Echézeaux, Burgundy, France",95,262.0,France,0.07250000000000001
+210,210,"Château Léoville Barton winery ,Saint-Julien, Bordeaux, France",96,90.0,France,0.1425925925925926
+211,211,"Château Pontet-Canet winery ,Pauillac, Bordeaux, France",92,,France,0.24375
+212,212,"Château Pontet-Canet winery ,Pauillac, Bordeaux, France",94,75.0,France,0.17213203463203464
+213,213,"Harlan Estate winery ,Napa Valley, California, US",93,150.0,US,0.07982093663911845
+214,214,"Lewis winery ,Napa Valley, California, US",96,60.0,US,0.10681818181818183
+215,215,"Cardinale winery ,Mount Veeder, California, US",95,125.0,US,0.3541666666666667
+216,216,"Château Pontet-Canet winery ,Pauillac, Bordeaux, France",94,,France,0.25
+217,217,"Moulin Touchais winery ,Coteaux du Layon, Loire Valley, France",91,60.0,France,0.1878571428571429
+218,218,"Cavallotto winery ,Barolo, Piedmont, Italy",93,156.0,Italy,-0.12380952380952383
+219,219,"Mascarello Giuseppe e Figlio winery ,Barolo, Piedmont, Italy",93,150.0,Italy,0.028571428571428564
+220,220,"Eugenio Bocchino winery ,Barolo, Piedmont, Italy",95,,Italy,0.21166666666666667
+221,221,"Camille Giroud winery ,Chambertin, Burgundy, France",95,272.0,France,-0.036111111111111115
+222,222,"Herman Story winery ,California, California, US",91,48.0,US,0.38250000000000006
+223,223,"Le Dôme winery ,Saint-Émilion, Bordeaux, France",95,295.0,France,0.4309523809523809
+224,224,"Salon winery ,Champagne, Champagne, France",96,216.0,France,0.3060606060606061
+225,225,"Cardinale winery ,Napa Valley, California, US",93,300.0,US,0.11944444444444445
+226,226,"Domaine Perrot-Minot winery ,Chambertin Clos de Bèze, Burgundy, France",96,525.0,France,0.13981481481481484
+227,227,"Domaine Perrot-Minot winery ,Mazoyeres-Chambertin, Burgundy, France",95,475.0,France,-0.06250000000000001
+228,228,"Domaine Faiveley winery ,Echézeaux, Burgundy, France",95,225.0,France,0.02777777777777779
+229,229,"Domaine Perrot-Minot winery ,Chapelle-Chambertin, Burgundy, France",95,,France,0.10342261904761905
+230,230,"Château Trotanoy winery ,Pomerol, Bordeaux, France",96,250.0,France,0.18541666666666667
+231,231,"Colgin winery ,Napa Valley, California, US",95,,US,0.22716049382716047
+232,232,"Le Dôme winery ,Saint-Émilion, Bordeaux, France",95,276.0,France,0.29761904761904756
+233,233,"Domaine Méo-Camuzet winery ,Corton-Charlemagne, Burgundy, France",95,307.0,France,0.4216666666666667
+234,234,"Three Sticks winery ,Santa Maria Valley, California, US",95,60.0,US,0.2041666666666667
+235,235,"Tenuta dell'Ornellaia winery ,Toscana, Tuscany, Italy",99,250.0,Italy,0.3372727272727272
+236,236,"Tenuta dell'Ornellaia winery ,Bolgheri Superiore, Tuscany, Italy",98,175.0,Italy,0.5526785714285715
+237,237,"Tenuta San Guido winery ,Bolgheri Sassicaia, Tuscany, Italy",97,190.0,Italy,0.2147727272727273
+238,238,"Marchesi Antinori winery ,Toscana, Tuscany, Italy",96,170.0,Italy,0.24166666666666667
+239,239,"Marchesi Antinori winery ,Toscana, Tuscany, Italy",95,79.0,Italy,0.25833333333333336
+240,240,"Gary Farrell winery ,Sonoma Valley, California, US",96,55.0,US,0.016666666666666663
+241,241,"Verité winery ,Sonoma County, California, US",98,300.0,US,0.19814814814814813
+242,242,"Gaja winery ,Langhe, Piedmont, Italy",97,215.0,Italy,0.22916666666666666
+243,243,"Domaine Leflaive winery ,Bienvenues Bâtard-Montrachet, Burgundy, France",97,410.0,France,-0.015714285714285698
+244,244,"Black Coyote winery ,Atlas Peak, California, US",97,85.0,US,0.20411255411255416
+245,245,"Gaja winery ,Langhe, Piedmont, Italy",95,420.0,Italy,0.475
+246,246,"Verité winery ,Sonoma County, California, US",94,260.0,US,0.15
+247,247,"Château Trotanoy winery ,Pomerol, Bordeaux, France",94,,France,0.25833333333333336
+248,248,"Le Dôme winery ,Saint-Émilion, Bordeaux, France",94,150.0,France,0.37
+249,249,"Avignonesi winery ,Vin Santo di Montepulciano, Tuscany, Italy",99,237.0,Italy,0.20714285714285716
+250,250,"Bouchard Père & Fils winery ,Montrachet, Burgundy, France",98,757.0,France,0.22348484848484848
+251,251,"Continuum winery ,Napa Valley, California, US",97,140.0,US,0.2378452380952381
+252,252,"Avignonesi winery ,Vin Santo di Montepulciano, Tuscany, Italy",97,170.0,Italy,0.13214285714285715
+253,253,"Bouchard Père & Fils winery ,Chevalier-Montrachet, Burgundy, France",95,328.0,France,0.2944444444444445
+254,254,"Barons de Rothschild winery ,Champagne, Champagne, France",96,390.0,France,0.23214285714285715
+255,255,"Patrimony winery ,Adelaida District, California, US",96,275.0,US,0.006666666666666665
+256,256,"Crown Point winery ,Happy Canyon of Santa Barbara, California, US",96,185.0,US,0.01562500000000001
+257,257,"Quady winery ,Amador County, California, US",95,34.0,US,0.18214285714285716
+258,258,"Eugenio Bocchino winery ,Barolo, Piedmont, Italy",95,100.0,Italy,0.0275
+259,259,"Dolce winery ,Napa Valley, California, US",95,85.0,US,0.5231481481481483
+260,260,"Conn Creek winery ,Atlas Peak, California, US",96,45.0,US,0.2529166666666667
+261,261,"Yao Ming winery ,Napa Valley, California, US",97,625.0,US,0.20555555555555557
+262,262,"Yao Ming winery ,Napa Valley, California, US",95,170.0,US,0.09333333333333332
+263,263,"Mascarello Giuseppe e Figlio winery ,Barolo, Piedmont, Italy",95,163.0,Italy,0.16704545454545455
+264,264,"Cavallotto winery ,Barolo, Piedmont, Italy",95,,Italy,-0.1369047619047619
+265,265,"Ramey winery ,Carneros, California, US",94,65.0,US,0.4041666666666667
+266,266,"Julien Schaal winery ,Alsace, Alsace, France",93,25.0,France,0.030555555555555555
+267,267,"Wayfarer winery ,Fort Ross-Seaview, California, US",94,90.0,US,0.25833333333333336
+268,268,"Marchesi Antinori winery ,Toscana, Tuscany, Italy",93,105.0,Italy,0.11666666666666668
+269,269,"Domaine Jacques Prieur winery ,Chambertin, Burgundy, France",95,602.0,France,0.35000000000000003
+270,270,"Chanson Père et Fils winery ,Charmes-Chambertin, Burgundy, France",95,330.0,France,-0.05520833333333334
+271,271,"Domaine des Croix winery ,Corton, Burgundy, France",95,118.0,France,0.11249999999999999
+272,272,"Domaine des Lambrays winery ,Clos de Lambrays, Burgundy, France",95,,France,0.2263888888888889
+273,273,"Domaine Jacques Prieur winery ,Chevalier-Montrachet, Burgundy, France",95,685.0,France,0.2715097402597403
+274,274,"Albert Bichot winery ,Clos de la Roche, Burgundy, France",95,295.0,France,0.23106060606060605
+275,275,"Chanson Père et Fils winery ,Chambertin Clos de Bèze, Burgundy, France",95,455.0,France,0.3625
+276,276,"Domaine Faiveley winery ,Mazis-Chambertin, Burgundy, France",95,353.0,France,0.1564814814814815
+277,277,"Domaine Jacques Prieur winery ,Musigny, Burgundy, France",95,973.0,France,0.32976190476190476
+278,278,"Domaine des Croix winery ,Corton, Burgundy, France",95,143.0,France,0.11944444444444446
+279,279,"Domaine Faiveley winery ,Echézeaux, Burgundy, France",95,279.0,France,-0.07708333333333334
+280,280,"Cantina Bartolo Mascarello winery ,Barolo, Piedmont, Italy",95,145.0,Italy,0.28125
+281,281,"Cavallotto winery ,Barolo, Piedmont, Italy",95,78.0,Italy,0.03852813852813853
+282,282,"Holus Bolus winery ,Sta. Rita Hills, California, US",95,35.0,US,0.10925925925925925
+283,283,"Château Léoville Barton winery ,Saint-Julien, Bordeaux, France",93,,France,0.075
+284,284,"Mascarello Giuseppe e Figlio winery ,Barolo, Piedmont, Italy",92,113.0,Italy,-0.08785714285714288
+285,285,"Roche de Bellene winery ,Charmes-Chambertin, Burgundy, France",95,312.0,France,-0.06147186147186147
+286,286,"Ramey winery ,Oakville, California, US",95,185.0,US,-0.058843537414965986
+287,287,"Ramey winery ,Oakville, California, US",94,100.0,US,0.02638888888888889
+288,288,"Salon winery ,Champagne, Champagne, France",100,617.0,France,0.45727272727272733
+289,289,"Joseph Drouhin winery ,Grands-Echezeaux, Burgundy, France",97,639.0,France,0.21250000000000002
+290,290,"Louis Jadot winery ,Chapelle-Chambertin, Burgundy, France",97,288.0,France,0.268
+291,291,"Louis Jadot winery ,Chambertin Clos de Bèze, Burgundy, France",97,468.0,France,0.22777777777777775
+292,292,"Domaine Jean Grivot winery ,Echézeaux, Burgundy, France",96,,France,0.2922916666666666
+293,293,"Domaine Jean Grivot winery ,Clos de Vougeot, Burgundy, France",96,281.0,France,0.12222222222222223
+294,294,"Wayfarer winery ,Fort Ross-Seaview, California, US",96,150.0,US,0.33999999999999997
+295,295,"Joseph Drouhin winery ,Vosne-Romanée, Burgundy, France",95,357.0,France,0.21203703703703702
+296,296,"Tenuta San Guido winery ,Bolgheri Sassicaia, Tuscany, Italy",96,227.0,Italy,0.3154761904761904
+297,297,"DAOU winery ,Adelaida District, California, US",95,100.0,US,0.16666666666666669
+298,298,"Venge winery ,Calistoga, California, US",95,95.0,US,0.3678571428571429
+299,299,"Kendall-Jackson winery ,Knights Valley, California, US",94,70.0,US,0.36071428571428577
+300,300,"Dal Forno Romano winery ,Amarone della Valpolicella, Veneto, Italy",95,500.0,Italy,0.08411255411255408
+301,301,"Quilceda Creek winery ,Red Mountain, Washington, US",95,95.0,US,0.06666666666666668
+302,302,"Dal Forno Romano winery ,Amarone della Valpolicella, Veneto, Italy",95,530.0,Italy,0.11136363636363635
+303,303,"Domaine Perrot-Minot winery ,Charmes-Chambertin, Burgundy, France",95,,France,0.06666666666666668
+304,304,"Domaine Faiveley winery ,Mazis-Chambertin, Burgundy, France",95,290.0,France,0.135
+305,305,"Domaine Vincent Girardin winery ,Chevalier-Montrachet, Burgundy, France",95,398.0,France,0.4065476190476191
+306,306,"Chanson Père et Fils winery ,Chambertin Clos de Bèze, Burgundy, France",94,248.0,France,-0.09166666666666666
+307,307,"Louis Latour winery ,Montrachet, Burgundy, France",94,430.0,France,0.2696428571428572
+308,308,"Tamarack Cellars winery ,Walla Walla Valley (WA), Washington, US",95,50.0,US,0.14166666666666666
+309,309,"Wayfarer winery ,Fort Ross-Seaview, California, US",95,115.0,US,0.0642857142857143
+310,310,"Tenuta San Guido winery ,Bolgheri Sassicaia, Tuscany, Italy",95,235.0,Italy,0.2972222222222222
+311,311,"Manzone winery ,Barolo, Piedmont, Italy",95,48.0,Italy,-0.10476190476190476
+312,312,"Metzker Family Estates winery ,Russian River Valley, California, US",95,65.0,US,0.09090909090909091
+313,313,"Gary Farrell winery ,Sonoma Valley, California, US",94,60.0,US,-0.059999999999999984
+314,314,"Domaine Leflaive winery ,Bâtard-Montrachet, Burgundy, France",99,560.0,France,0.33809523809523817
+315,315,"Domaine du Comte Liger-Belair winery ,La Romanée, Burgundy, France",96,2500.0,France,0.21916666666666668
+316,316,"Marchesi Antinori winery ,Toscana, Tuscany, Italy",95,105.0,Italy,0.3525
+317,317,"Alpha Omega winery ,Atlas Peak, California, US",92,140.0,US,0.04696969696969697
+318,318,"Château Trotanoy winery ,Pomerol, Bordeaux, France",95,250.0,France,0.1625
+319,319,"J.L. Chave winery ,Hermitage, Rhône Valley, France",97,125.0,France,0.32642857142857146
+320,320,"Colgin winery ,Napa Valley, California, US",96,150.0,US,0.27222222222222225
+321,321,"Dalla Valle winery ,Napa Valley, California, US",96,120.0,US,0.14920634920634923
+322,322,"Dalla Valle winery ,Napa Valley, California, US",94,100.0,US,0.14200680272108843
+323,323,"Mascarello Giuseppe e Figlio winery ,Barolo, Piedmont, Italy",97,100.0,Italy,0.21111111111111114
+324,324,"Bruno Giacosa winery ,Barolo, Piedmont, Italy",95,250.0,Italy,0.22291666666666668
+325,325,"Cavallotto winery ,Barolo, Piedmont, Italy",95,100.0,Italy,0.28833333333333333
+326,326,"Bruno Giacosa winery ,Barbaresco, Piedmont, Italy",95,200.0,Italy,0.10995670995670993
+327,327,"Château Pontet-Canet winery ,Pauillac, Bordeaux, France",95,105.0,France,0.2726190476190476
+328,328,"Chateau Ste. Michelle & Dr. Loosen winery ,Columbia Gorge (WA), Washington, US",95,200.0,US,0.3819444444444444
+329,329,"Au Sommet winery ,Atlas Peak, California, US",94,250.0,US,0.08630952380952382
+330,330,"Verité winery ,Sonoma County, California, US",94,450.0,US,0.02763839695657877
+331,331,"Cantina Bartolo Mascarello winery ,Barolo, Piedmont, Italy",94,140.0,Italy,0.16666666666666669
+332,332,"Le Dôme winery ,Saint-Émilion, Bordeaux, France",94,,France,0.39583333333333337
+333,333,"Masseto winery ,Toscana, Tuscany, Italy",97,550.0,Italy,0.4222222222222223
+334,334,"Tenuta San Guido winery ,Bolgheri Sassicaia, Tuscany, Italy",97,227.0,Italy,0.08409090909090908
+335,335,"Château Léoville Barton winery ,Saint-Julien, Bordeaux, France",95,115.0,France,0.35
+336,336,"Cardinale winery ,Napa Valley, California, US",97,250.0,US,0.225
+337,337,"Celani Family Vineyards winery ,Napa Valley, California, US",96,195.0,US,0.25749999999999995
+338,338,"Ramey winery ,Carneros, California, US",96,65.0,US,0.4375
+339,339,"Roche de Bellene winery ,Clos de la Roche, Burgundy, France",95,312.0,France,0.3041666666666667
+340,340,"Nicolaysen Family Vineyards winery ,Santa Barbara County, California, US",95,50.0,US,0.42196969696969694
+341,341,"Cavallotto winery ,Barolo, Piedmont, Italy",95,80.0,Italy,0.016666666666666663
+342,342,"Spottswoode winery ,St. Helena, California, US",98,185.0,US,0.32142857142857145
+343,343,"Macauley winery ,Oakville, California, US",97,175.0,US,0.2663419913419913
+344,344,"Casanova di Neri winery ,Brunello di Montalcino, Tuscany, Italy",100,270.0,Italy,0.14875
+345,345,"Château Pontet-Canet winery ,Pauillac, Bordeaux, France",98,,France,0.08407738095238096
+346,346,"Vieux Château Certan winery ,Saint-Émilion, Bordeaux, France",97,,France,0.44166666666666665
+347,347,"Louis Jadot winery ,Montrachet, Burgundy, France",96,,France,0.033333333333333326
+348,348,"Louis Latour winery ,Chevalier-Montrachet, Burgundy, France",96,,France,0.2630952380952381
+349,349,"Bouchard Père & Fils winery ,Corton-Charlemagne, Burgundy, France",96,,France,0.5
+350,350,"Bouchard Père & Fils winery ,Chevalier-Montrachet, Burgundy, France",95,,France,0.3604166666666667
+351,351,"Bouchard Père & Fils winery ,Chevalier-Montrachet, Burgundy, France",95,,France,0.3051948051948052
+352,352,"Louis Jadot winery ,Bâtard-Montrachet, Burgundy, France",94,,France,0.17529761904761906
+353,353,"Louis Jadot winery ,Corton-Charlemagne, Burgundy, France",94,,France,0.30625
+354,354,"Chanson Père et Fils winery ,Charmes-Chambertin, Burgundy, France",96,225.0,France,0.15238095238095237
+355,355,"Domaine du Comte Liger-Belair winery ,La Romanée, Burgundy, France",96,2000.0,France,0.20750000000000002
+356,356,"Domaine Anne Gros winery ,Clos de Vougeot, Burgundy, France",96,,France,-0.09135802469135802
+357,357,"Bouchard Père & Fils winery ,Chambertin Clos de Bèze, Burgundy, France",96,575.0,France,0.22777777777777775
+358,358,"Domaine des Lambrays winery ,Clos de Lambrays, Burgundy, France",95,,France,0.3619047619047619
+359,359,"Domaine Jayer-Gilles winery ,Echézeaux, Burgundy, France",95,300.0,France,0.17291666666666666
+360,360,"Bouchard Père & Fils winery ,Echézeaux, Burgundy, France",95,400.0,France,0.12249999999999998
+361,361,"Bouchard Père & Fils winery ,Clos de Vougeot, Burgundy, France",95,200.0,France,0.46071428571428563
+362,362,"Clos de Tart winery ,Clos de Tart, Burgundy, France",94,,France,0.22037037037037036
+363,363,"Domaine du Comte Liger-Belair winery ,La Romanée, Burgundy, France",94,1125.0,France,-0.06071428571428572
+364,364,"Château d'Yquem winery ,Sauternes, Bordeaux, France",97,800.0,France,0.3625
+365,365,"Dal Forno Romano winery ,Amarone della Valpolicella, Veneto, Italy",96,470.0,Italy,0.09666666666666668
+366,366,"Château d'Yquem winery ,Sauternes, Bordeaux, France",99,,France,0.47738095238095246
+367,367,"Château Pontet-Canet winery ,Pauillac, Bordeaux, France",99,,France,0.5495238095238095
+368,368,"Château Climens winery ,Barsac, Bordeaux, France",98,,France,0.3535714285714286
+369,369,"Château Léoville Barton winery ,Saint-Julien, Bordeaux, France",97,,France,0.40189393939393936
+370,370,"Alpha Omega winery ,Atlas Peak, California, US",99,250.0,US,0.24656084656084656
+371,371,"Alpha Omega winery ,St. Helena, California, US",98,250.0,US,0.1670995670995671
+373,373,"D'Alfonso-Curran winery ,Santa Barbara County, California, US",96,65.0,US,0.3616666666666667
+374,374,"Wayfarer winery ,Fort Ross-Seaview, California, US",93,115.0,US,0.18253968253968256
+375,375,"Amuse Bouche winery ,Napa Valley, California, US",95,200.0,US,0.4533333333333333
+376,376,"Gérard Bertrand winery ,Rivesaltes, Languedoc-Roussillon, France",95,350.0,France,0.06111111111111111
+377,377,"Arkenstone winery ,Howell Mountain, California, US",95,120.0,US,0.3614583333333333
+378,378,"Arkenstone winery ,Howell Mountain, California, US",94,70.0,US,0.18111111111111114
+379,379,"Mascarello Giuseppe e Figlio winery ,Barolo, Piedmont, Italy",96,110.0,Italy,0.2857142857142857
+380,380,"Masseto winery ,Toscana, Tuscany, Italy",94,625.0,Italy,0.06256613756613756
+381,381,"Verité winery ,Sonoma County, California, US",100,450.0,US,0.2252435064935065
+382,382,"Verité winery ,Sonoma County, California, US",97,450.0,US,0.1706060606060606
+383,383,"Verité winery ,Sonoma County, California, US",97,450.0,US,0.14236111111111113
+385,385,"Horsepower winery ,Walla Walla Valley (WA), Washington, US",97,115.0,US,0.234375
+386,386,"Horsepower winery ,Walla Walla Valley (WA), Washington, US",96,115.0,US,0.5041666666666667
+387,387,"Horsepower winery ,Walla Walla Valley (WA), Washington, US",96,115.0,US,-0.05
+388,388,"Portfolio winery ,Napa Valley, California, US",95,140.0,US,0.10666666666666666
+389,389,"Cavallotto winery ,Barolo, Piedmont, Italy",96,,Italy,0.11329966329966329
+390,390,"Cavallotto winery ,Barolo, Piedmont, Italy",96,90.0,Italy,0.18209366391184573
+391,391,"Mascarello Giuseppe e Figlio winery ,Barolo, Piedmont, Italy",95,113.0,Italy,-0.01571428571428572
+392,392,"Casanova di Neri winery ,Brunello di Montalcino, Tuscany, Italy",97,80.0,Italy,0.22142857142857142
+393,393,"Château Léoville Barton winery ,Saint-Julien, Bordeaux, France",96,90.0,France,0.2547619047619048
+394,394,"Scaggs Vineyard winery ,Mount Veeder, California, US",95,45.0,US,0.32
+395,395,"Château Pontet-Canet winery ,Pauillac, Bordeaux, France",95,125.0,France,0.30282738095238093
+396,396,"Louis Latour winery ,Chevalier-Montrachet, Burgundy, France",94,320.0,France,0.35892857142857143
+397,397,"Crown Point winery ,Happy Canyon of Santa Barbara, California, US",95,185.0,US,0.032812499999999994
+398,398,"Colgin winery ,Napa Valley, California, US",99,290.0,US,0.2952777777777778
+399,399,"Ovid winery ,Napa Valley, California, US",97,195.0,US,0.3952380952380952
+400,400,"Gandona winery ,Napa Valley, California, US",97,190.0,US,0.10924242424242424
+401,401,"Bryant Family winery ,Napa Valley, California, US",96,335.0,US,0.09033333333333335
+402,402,"Louis Latour winery ,Montrachet, Burgundy, France",97,650.0,France,0.29
+403,403,"Louis Latour winery ,Chevalier-Montrachet, Burgundy, France",96,450.0,France,0.13467261904761904
+404,404,"Marchesi Antinori winery ,Toscana, Tuscany, Italy",95,105.0,Italy,0.3525
+405,405,"Domaine du Comte Liger-Belair winery ,La Romanée, Burgundy, France",95,,France,0.39166666666666666
+406,406,"Domaine des Croix winery ,Corton-Charlemagne, Burgundy, France",95,160.0,France,0.08888888888888889
+407,407,"Cardinale winery ,Napa Valley, California, US",95,250.0,US,0.29621212121212115
+408,408,"François Bertheau winery ,Bonnes-Mares, Burgundy, France",95,,France,0.1565
+409,409,"Cavallotto winery ,Barolo, Piedmont, Italy",97,98.0,Italy,0.38020833333333337
+411,411,"Cavallotto winery ,Barolo, Piedmont, Italy",95,75.0,Italy,0.33666666666666667
+412,412,"Ramey winery ,Oakville, California, US",95,200.0,US,0.1275
+413,413,"Herman Story winery ,California, California, US",95,48.0,US,0.05291666666666667
+414,414,"Cordant winery ,Santa Maria Valley, California, US",95,42.0,US,-0.09791666666666665
+415,415,"Louis Jadot winery ,Corton-Charlemagne, Burgundy, France",96,130.0,France,0.19375000000000003
+416,416,"Quilceda Creek winery ,Red Mountain, Washington, US",91,98.0,US,0.002142857142857141
+417,417,"Semper winery ,Sonoma Coast, California, US",95,85.0,US,0.5666666666666667
+418,418,"Harlan Estate winery ,Napa Valley, California, US",94,500.0,US,0.020670995670995673
+419,419,"Colgin winery ,Napa Valley, California, US",94,290.0,US,0.19382284382284384
+420,420,"Château Léoville Barton winery ,Saint-Julien, Bordeaux, France",94,65.0,France,0.31111111111111117
+421,421,"Yao Ming winery ,Napa Valley, California, US",93,150.0,US,0.2
+422,422,"Harlan Estate winery ,Napa Valley, California, US",96,200.0,US,0.3347222222222222
+423,423,"Gaja winery ,Langhe, Piedmont, Italy",96,495.0,Italy,0.09761904761904762
+424,424,"Quilceda Creek winery ,Red Mountain, Washington, US",96,110.0,US,0.11249999999999998
+425,425,"Gianni Voerzio winery ,Barolo, Piedmont, Italy",96,125.0,Italy,0.30357142857142866
+426,426,"Gaja winery ,Langhe, Piedmont, Italy",95,240.0,Italy,0.09523809523809523
+427,427,"Gaja winery ,Langhe, Piedmont, Italy",95,495.0,Italy,0.1
+428,428,"Clos de Tart winery ,Clos de Tart, Burgundy, France",95,,France,0.2977272727272728
+429,429,"Domaine Michel Lafarge winery ,Volnay, Burgundy, France",95,,France,-0.0380952380952381
+430,430,"Chanson Père et Fils winery ,Charmes-Chambertin, Burgundy, France",95,,France,-0.14642857142857144
+431,431,"Arkenstone winery ,Howell Mountain, California, US",97,120.0,US,0.3883333333333333
+432,432,"Au Sommet winery ,Atlas Peak, California, US",97,250.0,US,0.2674783549783549
+433,433,"Gaja winery ,Langhe, Piedmont, Italy",93,,Italy,0.04999999999999999
+434,434,"Kendall-Jackson winery ,Knights Valley, California, US",96,70.0,US,0.29090909090909084
+435,435,"Semper winery ,Russian River Valley, California, US",97,85.0,US,0.021428571428571432
+436,436,"Redmon winery ,St. Helena, California, US",97,65.0,US,0.25641025641025644
+437,437,"Verité winery ,Sonoma County, California, US",93,450.0,US,0.11569264069264071
