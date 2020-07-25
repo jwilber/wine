@@ -9,7 +9,7 @@ var step = article.selectAll(".step");
 // initialize chart 1
 const stateTweener = new StateTween({
   element: '#chart1',
-  data: "us3.topo.json"
+  data: "us2.topo.json"
 })
 
 

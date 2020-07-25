@@ -16,14 +16,14 @@ let xAxis = d3.axisBottom(xScale)
     .tickSizeOuter(0);
 
 let emScale = d3.scaleLinear()
-    .range([.25, .5]);
+    .range([.3, .5]);
 
 let emScale2 = d3.scaleLinear()
     .range([8, 20]);
 
 let colors = d3.scaleOrdinal()
     .domain(["France", "US", "Italy", "europe", "southAmerica", "oceania"])
-    .range(['pink', 'red', 'white', 'coral', 'grey', 'tan']);
+    .range(['skyblue', 'teal', 'pink', 'coral', 'grey', 'tan']);
 
 d3.select("#USColor").style("color", colors("US"));
 d3.select("#namericaColor").style("color", colors("Italy"));
@@ -157,7 +157,7 @@ d3.csv("bubble_df.csv", function (error, data) {
             .attr("transform", `translate(-1,0) scale(0.2,0.2)`)
             // .attr("transform", d => `translate(-1,0) scale(${emScale(d.price)}, ${emScale(d.price)})`)
             .style('stroke', 'black')
-            .style('stroke-width', 2)
+            .style('stroke-width', 10)
             .attr('fill-opacity', .75)
             .attr("fill", d => colors(d.country))
 
